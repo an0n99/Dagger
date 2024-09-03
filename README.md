@@ -1,7 +1,9 @@
 Dagger is fork of the popular proxy Cloak. Dagger introduces three new essential features: 
 
 -PGP signing to ensure no tampering of the data has taken place 
+
 -256 AES Encryption to make it near impossible to crack
+
 -Further obfuscation of the code by adding a HTTPS GET request
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
